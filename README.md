@@ -1,4 +1,4 @@
-### Hi there 👋
+# Preview of My Projects
 
 <!--
 **huang-fe/huang-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Augmented Reality Projects 
+Made in Unity in 2021 as a part of CS11si. 
+
